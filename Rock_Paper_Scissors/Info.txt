@@ -1,0 +1,3 @@
+This is a Rock Paper Scissors program. It is a single thread
+and support 1 on 1. The user vs the computer with only one
+round.
